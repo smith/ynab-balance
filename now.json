@@ -1,0 +1,6 @@
+{
+  "env": {
+    "YNAB_ACCESS_TOKEN": "@ynabaccesstoken"
+  },
+  "routes": [{ "src": "/robots.txt", "dest": "/static/robots.txt" }]
+}
